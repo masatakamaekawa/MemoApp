@@ -5,6 +5,7 @@
 //  Created by masataka maekawa on 2021/10/31.
 //
 
+//テスト用コメントです｡
 import UIKit
 
 class ViewController: UIViewController,UITextViewDelegate {
